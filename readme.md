@@ -1,0 +1,1 @@
+Optional chaining (?.) is a feature in JavaScript that allows you to safely access deeply nested properties of an object without having to explicitly check if each reference in the chain is valid. If any part of the chain is null or undefined, the entire expression short-circuits and returns undefined instead of throwing an error.
